@@ -1,11 +1,21 @@
-# Runtime data - each user's saved accounts, not part of the source code
-accounts.json
+# Virtual Environment
+venv/
+env/
 
 # Python cache
 __pycache__/
-*.pyc
+*.py[cod]
 
-# Common editor/OS clutter
+# IDE settings
 .vscode/
 .idea/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS files
 .DS_Store
+Thumbs.db
