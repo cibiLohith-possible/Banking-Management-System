@@ -1,0 +1,11 @@
+# Runtime data - each user's saved accounts, not part of the source code
+accounts.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Common editor/OS clutter
+.vscode/
+.idea/
+.DS_Store
