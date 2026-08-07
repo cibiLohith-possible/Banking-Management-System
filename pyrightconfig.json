@@ -1,0 +1,16 @@
+{
+  "venvPath": "citation-aware-pdf-rag",
+  "venv": ".venv",
+  "pythonVersion": "3.11",
+  "pythonPlatform": "Windows",
+  "typeCheckingMode": "basic",
+  "extraPaths": [
+    "citation-aware-pdf-rag",
+    "citation-aware-pdf-rag/scripts"
+  ],
+  "exclude": [
+    "citation-aware-pdf-rag/.venv",
+    "**/__pycache__",
+    "**/.pytest_cache"
+  ]
+}
