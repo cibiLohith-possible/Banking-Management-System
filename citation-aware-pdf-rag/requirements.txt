@@ -1,0 +1,13 @@
+# Core Dependencies
+pymupdf>=1.23.0
+qdrant-client>=1.7.0
+sentence-transformers>=2.2.0
+httpx>=0.24.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+fastapi>=0.100.0
+uvicorn>=0.22.0
+
+# Testing Dependencies
+pytest>=7.0.0
+httpx2>=0.28.0

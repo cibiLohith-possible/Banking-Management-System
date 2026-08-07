@@ -1,0 +1,23 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "pythonVersion": "3.11",
+  "pythonPlatform": "Windows",
+  "typeCheckingMode": "basic",
+  "extraPaths": [
+    ".",
+    "scripts"
+  ],
+  "include": [
+    "app",
+    "tests",
+    "scripts",
+    "main.py",
+    "conftest.py"
+  ],
+  "exclude": [
+    ".venv",
+    "__pycache__",
+    ".pytest_cache"
+  ]
+}
